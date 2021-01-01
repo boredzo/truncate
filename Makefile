@@ -1,0 +1,1 @@
+truncate: truncate.o
