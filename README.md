@@ -34,5 +34,5 @@ Sizes can be specified as either whole numbers of bytes or whole numbers followe
 <dd>Yobibytes (YiB): 1024**8</dd>
 </dl>
 
-###Compatibility
+### Compatibility
 This works on macOS. It should work on, or at least be portable to, Linux-based operating systems.
