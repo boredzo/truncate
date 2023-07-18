@@ -15,23 +15,23 @@ Sizes can be specified as either whole numbers of bytes or whole numbers followe
 <dt>B (or no suffix)</dt>
 <dd>Bytes</dd>
 <dt>S</dt>
-<dd>Sectors (512 bytes each)</dd>
+<dd>Sectors of 512 bytes each)</dd>
 <dt>K</dt>
-<dd>Kibibytes (1024 bytes each)</dd>
+<dd>Kibibytes (KiB) of 1024 bytes each</dd>
 <dt>M</dt>
-<dd>Mebibytes (1024**2 = 1048576 bytes)</dd>
+<dd>Mebibytes (MiB): 1024**2 = 1048576 bytes</dd>
 <dt>G</dt>
-<dd>Gibibytes (1024**3 = >1 billion bytes)</dd>
+<dd>Gibibytes (GiB): 1024**3 = >1 billion bytes</dd>
 <dt>T</dt>
-<dd>Tebibytes (1024**4 = >1 triillion bytes)</dd>
+<dd>Tebibytes (TiB): 1024**4 = >1 triillion bytes</dd>
 <dt>P</dt>
-<dd>Pebibytes (1024**5 = 1024 tebibytes)</dd>
+<dd>Pebibytes (PiB): 1024**5 = 1024 tebibytes</dd>
 <dt>E</dt>
-<dd>Exbibytes (1024**6 = 1048576 tebibytes)</dd>
+<dd>Exbibytes (EiB): 1024**6 = 1048576 tebibytes</dd>
 <dt>Z</dt>
-<dd>Zebibytes (1024**7)</dd>
+<dd>Zebibytes (ZiB): 1024**7</dd>
 <dt>Y</dt>
-<dd>Yobibytes (1024**8)</dd>
+<dd>Yobibytes (YiB): 1024**8</dd>
 </dl>
 
 ###Compatibility
